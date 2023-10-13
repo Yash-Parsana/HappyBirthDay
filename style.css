@@ -127,3 +127,9 @@ background-position: center; /* Center the image */
    box-shadow: 0px 6px 11px 7px rgba(0, 0, 0, 0.22);
    border-radius: 5px;
 }
+
+@media screen and (max-width: 800px) {
+    .card {
+        left: -5%;
+    }
+  }
